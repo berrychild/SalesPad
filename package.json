@@ -1,0 +1,28 @@
+{
+  "name": "salespad-native-keyboard",
+  "version": "2.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berrychild/SalesPad_Keyboard.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berrychild/SalesPad_Keyboard/issues"
+  },
+  "homepage": "https://github.com/berrychild/SalesPad_Keyboard#readme",
+  "gitHead": "e79e1eace4d0dab225ea07e7c3d02a2b7fb80b07",
+  "readme": "# keyboard",
+  "readmeFilename": "README.md",
+  "_id": "salespad-native-keyboard@1.0.0",
+  "_shasum": "902d4878c1c66a2a8ef8075d674279ececd027a5",
+  "_from": "git+https://github.com/berrychild/SalesPad_Keyboard",
+  "_resolved": "git+https://github.com/berrychild/SalesPad_Keyboard"
+}
